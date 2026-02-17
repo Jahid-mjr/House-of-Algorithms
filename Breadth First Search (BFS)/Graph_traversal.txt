@@ -1,0 +1,7 @@
+BFS = Breadth First Search
+
+level onujai
+
+DFS = Depth First Search
+
+line onujai jete thakbe NULL na pawya porjonto
