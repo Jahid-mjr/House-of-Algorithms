@@ -1,0 +1,12 @@
+Adjacency Matrix:
+
+duita node deya ase bolte hobe connection ase kina; O(1)
+
+
+Adjacency List:
+
+akta node deya, kar kar sathe connection ase; O(N)  but aita onek kom
+
+Edge List:
+
+only edge gula

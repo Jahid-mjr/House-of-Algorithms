@@ -1,0 +1,2 @@
+akta 2d array nibo
+row = node, colum = node

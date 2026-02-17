@@ -1,0 +1,4 @@
+akta 2d vector neya hoy
+
+jar coloum fix thake = node
+er por oi khaner ak ak ta index e akta kore vector thake

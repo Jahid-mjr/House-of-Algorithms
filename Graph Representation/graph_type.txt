@@ -1,0 +1,15 @@
+Direction:
+
+*Directed vs Undirected(both direction allow)
+
+directed graph e 2 ta node ei cycle hoy
+
+Undirected graph e minimum 3 ta graph lagbe cycle hote hole
+
+Weight:
+
+*Weighted vs Unweighted(all Weight is = 1)
+
+Cycle:
+
+*Cyclic vs Acyclic
