@@ -1,0 +1,10 @@
+1.Tranvere : DFS - O(V+E)
+
+2.Shortest Path:
+    1.Multi Source : Floyd Warshall - O(V^3)
+    2.Single Source :
+    
+        1.Unweighted : BFS - O(V+E)
+        2.Weighted : 
+            1.Negative Weighted Cycle : Bellman Ford - O(V*E)
+            2.No Negative Weighted Cycle : Dijkstra - O(ElogV) 
